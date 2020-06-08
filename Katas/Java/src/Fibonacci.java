@@ -8,6 +8,6 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        System.out.println(fibonacci(8));
+        System.out.println(Fibonacci.fibonacci(8));
     }
 }
