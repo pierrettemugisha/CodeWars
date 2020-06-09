@@ -1,8 +1,9 @@
 #include<iostream>
 #include "Fibbonacci.h"
+#include"NarcissisticNumber.h"
 using namespace std;
 
 
 int main() {
-	cout << fib(8);
+	cout << narcissistic(153);
 }
