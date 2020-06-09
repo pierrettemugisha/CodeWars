@@ -5,5 +5,5 @@ using namespace std;
 
 
 int main() {
-	cout << narcissistic(153);
+	cout << narcissistic(1634);
 }
